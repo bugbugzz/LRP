@@ -1,6 +1,7 @@
 # LRP
 references
 Reference list
+
 [1] S. K. Doke and S. C. Dhawale, “Alternatives to animal testing: A review,” Saudi Pharmaceutical Journal, vol. 23, no. 3, pp. 223–229, Jul. 2015, doi: 10.1016/j.jsps.2013.11.002. 
 
 [2]J.-A. McArthur, “Taking Suffering Out of Science,” The Humane Society of the United States, 2000. https://www.humanesociety.org/all-our-fights/taking-suffering-out-science 
